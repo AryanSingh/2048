@@ -396,11 +396,12 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background-image:url("2.jpg");
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-    background-image:"http://spellceleb.com/wp-content/uploads/2015/05/SRK.jpg"
+    /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }*/
+    /*background-image:"http://spellceleb.com/wp-content/uploads/2015/05/SRK.jpg"*/
   .tile.tile-4 .tile-inner {
     background-image:url("4.jpg");
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    /*box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);*/
+     }
   .tile.tile-8 .tile-inner {
     background-image:url("8.jpg"); }
   .tile.tile-16 .tile-inner {
